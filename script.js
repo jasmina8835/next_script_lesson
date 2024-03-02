@@ -1,0 +1,1 @@
+let head = document.querySelector('h1')
